@@ -1,0 +1,1 @@
+Sundara is an adaptive onboard energy and sensing framework that dynamically allocates satellite resources based on solar input and environmental conditions. This repository demonstrates both embedded system logic and its extension to SmallSat onboard processing using NASA SMAP data.
